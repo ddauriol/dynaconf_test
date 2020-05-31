@@ -1,0 +1,9 @@
+default:
+  DATABASES:
+    default:
+      ENGINE: ""
+      NAME: "NAME"
+      USER: postgres
+      PASSWORD:
+      HOST:
+      PORT: PORT

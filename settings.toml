@@ -1,0 +1,7 @@
+[default]
+DATABASES__default__ENGINE=''
+DATABASES__default__NAME= "NAME"
+DATABASES__default__USER="USER"
+DATABASES__default__PASSWORD=''
+DATABASES__default__HOST=''
+DATABASES__default__PORT= "PORT"
